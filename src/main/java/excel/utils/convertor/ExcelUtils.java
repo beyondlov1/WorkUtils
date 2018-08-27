@@ -13,6 +13,7 @@ import java.io.IOException;
 /**
  * jExcelApi
  * 下载地址: https://sourceforge.net/projects/jexcelapi/files/
+ * 只能解析xls文件, 不能解析xlsx文件
  */
 public class ExcelUtils {
     public static void createXls(){
